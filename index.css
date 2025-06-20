@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+#hero-text {
+ font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  text-shadow:
+    0 0 4px #fff2e0,
+    0 0 8px #ff9933;
+}
+
+#sub{
+    font-family: 'Poppins', sans-serif;
+    
+}
+#para{
+  font-family: 'Roboto', sans-serif;
+}
+
+#heading2{
+  font-family: 'Poppins', sans-serif;
+}
